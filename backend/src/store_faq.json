@@ -1,0 +1,101 @@
+{
+  "company": {
+    "name": "PW Skills",
+    "industry": "Ed-Tech · Upskilling · Placement Training",
+    "website": "https://pwskills.com/",
+    "description": "PW Skills is an Indian upskilling platform by PhysicsWallah that offers affordable, job-focused courses in Full Stack Development, Data Science, DSA, Cloud, Machine Learning, and more. It focuses on practical learning, projects, and placement assistance for students and working professionals.",
+    "key_features": [
+      "Affordable tech courses",
+      "Live + recorded classes",
+      "Beginner-friendly curriculum",
+      "Industry projects",
+      "Assignments + assessments",
+      "Internship & placement assistance",
+      "Certificates",
+      "Community doubt support"
+    ],
+    "popular_courses": [
+      "Full Stack Web Development",
+      "Data Science Master Course",
+      "DSA in Java",
+      "AWS & Cloud Computing",
+      "Machine Learning Essentials",
+      "Cybersecurity",
+      "Python Programming"
+    ],
+    "pricing_summary": "Most courses range between ₹3,500 to ₹7,500.",
+    "pricing": {
+      "full_stack_dev": "₹3,500 – ₹5,000 depending on offers",
+      "data_science": "₹4,500 – ₹7,500",
+      "cloud_aws": "₹3,500 – ₹6,000",
+      "dsa_java": "₹2,500 – ₹4,000",
+      "placement_programs": "₹10,000 – ₹20,000"
+    }
+  },
+
+  "faq": [
+    {
+      "question": "What does PW Skills do?",
+      "answer": "PW Skills provides affordable job-oriented courses in Full Stack Development, Data Science, DSA, Cloud, and Python, with projects and placement assistance."
+    },
+    {
+      "question": "Are the courses beginner-friendly?",
+      "answer": "Yes, most PW Skills courses start from scratch and are completely beginner-friendly."
+    },
+    {
+      "question": "Do you offer placement assistance?",
+      "answer": "Yes, PW Skills provides placement and internship assistance for select courses."
+    },
+    {
+      "question": "Are there live classes?",
+      "answer": "Courses offer a mix of live classes, recorded lessons, assignments, and projects."
+    },
+    {
+      "question": "Do you provide certificates?",
+      "answer": "Yes, PW Skills provides industry-recognized certificates after course completion."
+    },
+    {
+      "question": "Is there a free trial?",
+      "answer": "Some courses may offer demo videos, but full courses are paid."
+    },
+    {
+      "question": "Who are these courses for?",
+      "answer": "Students, beginners, professionals switching careers, and freshers preparing for tech jobs."
+    },
+    {
+      "question": "Refund policy?",
+      "answer": "Refunds vary by course and batch. Check the course page for exact terms."
+    }
+  ],
+
+  "sdr_persona": {
+    "name": "Ariana",
+    "role": "Sales Development Representative for PW Skills",
+    "tone": "Warm, friendly, helpful, and conversational",
+    "goals": [
+      "Greet the learner warmly",
+      "Understand their learning and career goals",
+      "Explain courses using the FAQ data",
+      "Collect lead information naturally",
+      "Provide guidance on choosing a course",
+      "Summarize lead details at end of call"
+    ],
+    "greeting_message": "Hi there! 👋 Welcome to PW Skills! I'm Ariana, your course advisor. What brings you here today? Are you exploring any courses?"
+  },
+
+  "lead_fields_to_collect": {
+    "name": "",
+    "email": "",
+    "phone": "",
+    "current_role": "",
+    "goal": "",
+    "interested_course": "",
+    "experience_level": "",
+    "timeline": "",
+    "budget": ""
+  },
+
+  "end_of_call_summary_template": {
+    "summary_format": "Here’s a quick summary: [Name] is interested in the [Interested Course] course. They are currently a [Current Role] and want to learn this for [Goal]. Their experience level is [Experience Level]. They are planning to start [Timeline] with a budget preference of [Budget]. Contact details noted."
+  }
+}

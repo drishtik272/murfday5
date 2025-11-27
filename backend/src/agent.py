@@ -1,6 +1,6 @@
 # ======================================================
 # 💼 DAY 5: AI SALES DEVELOPMENT REP (SDR)
-# 👨‍⚕️ "Thakur Store" - Auto-Lead Capture Agent
+# 👨‍⚕️ "PW SKILLS" - Auto-Lead Capture Agent
 # 🚀 Features: FAQ Retrieval, Lead Qualification, JSON Database
 # ======================================================
 
